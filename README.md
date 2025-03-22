@@ -1,6 +1,3 @@
-Based on the information provided and the details from your GitHub repository citeturn0search4, here's a comprehensive `README.md` file for your project, **SoulMagle**:
-
-```markdown
 # SoulMagle
 
 **SoulMagle** is a peer-to-peer video chatting application that connects users based on shared interests. By leveraging real-time communication technologies and a user-friendly interface, SoulMagle facilitates meaningful connections between individuals.
